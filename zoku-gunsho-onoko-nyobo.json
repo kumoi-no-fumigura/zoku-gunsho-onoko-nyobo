@@ -1,0 +1,77 @@
+{
+ "work": "男女房歌合",
+ "work_id": "zoku-gunsho-onoko-nyobo",
+ "repo": "kumoi-no-fumigura/zoku-gunsho-onoko-nyobo",
+ "yomi": "をのこにょうぼううたあわせ",
+ "category": "歌合",
+ "kind": "prose",
+ "description": null,
+ "editions": [
+  {
+   "pid": "nao-731728",
+   "title": "続群書類従 巻407（男女房歌合）",
+   "holder": "国立公文書館",
+   "form": "写本",
+   "viewer": "https://www.digital.archives.go.jp/item/731728",
+   "images": [
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597083900/iiif/M1000000000000067867_0020.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597084000/iiif/M1000000000000067867_0021.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597084100/iiif/M1000000000000067867_0022.jp2"
+   ],
+   "url": "https://www.digital.archives.go.jp/item/731728",
+   "editor": "塙保己一 編",
+   "series": "続群書類従",
+   "publisher": "",
+   "year": null,
+   "pages": ""
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zoku-gunsho-onoko-nyobo-0001",
+   "pid": "nao-731728",
+   "pages": [
+    1
+   ],
+   "text": "もこかよとこにちかみたちわたるちんのまくらか右いふやうわかせこかたひ手のやとになかむらんゆみとりの月といひて持になりぬ永延二年七月廿七日男女房歌合同朝臣家訟合一条院御時也松とこ女の歌合は天徳の例によりてなり一暮花色暁虫声松下聞風水辺待月夜人左小将君為親朝臣茂賢行頼加賀守友範侍従徳門君右近君七"
+  },
+  {
+   "id": "zoku-gunsho-onoko-nyobo-0002",
+   "pid": "nao-731728",
+   "pages": [
+    2
+   ],
+   "text": "男女房のうたよみ出の〳〵はけみて題をいたしてよめる暮花色左小将君露出きてあすもみるへき色なれとくれゆらをしき本の色かなけふもあゝかなとも加賀守友範右ほのかなるをかはわかねとはなの色のきりたちまさる秋の夕暮暁虫声左為親秋の夜のあか月かけてなくむしは草の宿りもつゆけかりける右勝侍従包絶へすあけゆくそらになく書は秋のねさめのかすをし給ふ松下聞風茂賢松の葉に秋ふし風の出ときけはくもらぬめめにそてそぬれける右勝衛門君むかしよりならふともなきことのねをひけはたかはぬ松のうは風水辺詩月左行願おとはやまなかれていつる水のかもにおくれてみえぬ月をしそまつ"
+  },
+  {
+   "id": "zoku-gunsho-onoko-nyobo-0003",
+   "pid": "nao-731728",
+   "pages": [
+    3
+   ],
+   "text": "右右近君なみのうへにはおもいろをはをかなめて水は量らぬ月をしやまて内裏歌合右方後番承暦二年四月晦日子日霞鶯楼藤花菖蒲五月雨郭公七夕月鹿紅葉雪祝亥歌人保実朝臣美作君作匡房朝臣通俊朝臣伊家通浦頭綱朝臣何通家"
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "zoku-gunsho-onoko-nyobo",
+  "work": "男女房歌合",
+  "yomi": "をのこにょうぼううたあわせ",
+  "category": "歌合",
+  "order": 0,
+  "era": "",
+  "author": "",
+  "kind": "prose",
+  "blocks": 3,
+  "chars": 518,
+  "poems": 0,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-10-29",
+  "updated_at": "2026-10-29T20:10:33+09:00"
+ }
+}
