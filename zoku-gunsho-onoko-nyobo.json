@@ -199,6 +199,10 @@
    "dai": "勝"
   }
  ],
+ "translation": {
+  "count": 3,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-onoko-nyobo",
   "work": "男女房歌合",
@@ -211,7 +215,7 @@
   "blocks": 3,
   "chars": 509,
   "poems": 8,
-  "yaku": 0,
+  "yaku": 3,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T19:07:08+09:00"
